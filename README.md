@@ -12,8 +12,7 @@ The project included the following phases -
 - Network Analysis using Gephi: Please refer 'Network Analysis - Eileen Gu.gephi' and 'Network Analysis- Nathan Chen.gephi'
 - Final Presentation: Please refer 'Fame Fury.pptx'
 
-![image](https://user-images.githubusercontent.com/61624917/159137025-fc2705ef-8d30-4cc5-aa60-2e65f4f0e0ad.png)
-
+![image](https://user-images.githubusercontent.com/61624917/159137055-34b33878-9a3f-467e-a6de-a5222f119a12.png)
 
 Data extraction was done using Tweepy. We scraped a total of 60,000 tweets (30,000 each for Chen and Gu)
 
