@@ -1,5 +1,5 @@
 # Network-Analytics-Project---Winter-Olympics
-Comparing the reactions of Twitterati of two US-Born Winter Olympians of Chinese origin
+Comparing the reactions of Twitterati towards two US-Born Winter Olympians of Chinese origin
 
 Eileen Gu and Nathan Chen are two American-born Winter Olympians of Chinese descent. While the athletes had similar backgrounds, the thing that set them apart was that Eileen chose to compete for China during the 2022 Winter Olympics. Several news channels referred to Eileen as a traitor.
 
